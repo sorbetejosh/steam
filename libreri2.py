@@ -2,6 +2,12 @@ import pygame
 import random
 import sys 
 
+
+
+
+
+
+
 pygame.init()
 # Dimensiones de la pantalla y el personaje
 width, height = 900, 500#dimension de la pantalla
